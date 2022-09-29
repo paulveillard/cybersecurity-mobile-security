@@ -5,7 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
 
 
-## Android
+## `Android`
 
 ### General - Blogs, Papers, How To's
 
